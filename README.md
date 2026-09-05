@@ -4,17 +4,20 @@
 
 GreenEarth is a modern, responsive, and accessible environmental non-profit web platform engineered to promote ecological sustainability, forest preservation, watershed purification, plastic pollution reduction, and wildlife habitat conservation.
 
-This initiative is proudly brought to life and supported in collaboration with **Iamigos Foundation**.
+---
+
+## 🏢 Internship Project Information
+
+- **Company / Organization:** **Inamigos Foundation**
+- **Role / Domain:** **AI Web Development Intern**
+- **Intern Name:** Sai Babu Dharla
+- **Assignment:** **Task 3 - GreenEarth Web Project**
+
+> This project was developed as part of **Task 3** during my **AI Web Development Internship** at **Inamigos Foundation**. It showcases modern frontend development practices, responsive UI/UX design, interactive client-side logic, and semantic accessibility to create an impactful environmental awareness portal.
 
 ---
 
-## 🏢 Partner Organization
-
-Special thanks to **Iamigos Foundation** ([Iamigos Foundation](https://github.com/Iamigos-Foundation)) for driving impactful social and environmental change and empowering grassroots community development projects.
-
----
-
-## 📸 Preview & Project Highlights
+## 📸 Project Highlights & Features
 
 - **Hero & Mission**: High-impact visuals with direct calls to action and global conservation metrics.
 - **About Us**: Detailed breakdown of GreenEarth's identity, core mission, and long-term vision.
@@ -25,7 +28,7 @@ Special thanks to **Iamigos Foundation** ([Iamigos Foundation](https://github.co
   - 🐾 **Wildlife Protection**: Establishing safe migration corridors and anti-poaching safeguards.
 - **How You Can Help**: Clear action pathways for volunteers, donors, tree sponsors, and ambassadors.
 - **Testimonials**: Authentic impact reflections from community leaders, scientists, and youth educators.
-- **Interactive Contact**: Real-time form validation and interest routing to streamline outreach.
+- **Interactive Contact Form**: Real-time form validation and interest routing to streamline outreach.
 
 ---
 
@@ -37,7 +40,7 @@ GreenEarth/
 ├── index.html          # Main HTML structure with accessible semantics & meta tags
 ├── style.css           # Custom CSS styling (responsive layout, animations & themes)
 ├── script.js           # Client-side JavaScript (mobile toggle, form validation, dynamic year)
-├── README.md           # Project documentation & partner credits
+├── README.md           # Project documentation & internship details
 │
 └── images/
     ├── hero.jpg        # Hero banner background photography
@@ -80,9 +83,9 @@ No build tools or heavy dependencies required. You can launch the site directly:
 
 ---
 
-## 🤝 Contribution & Community
+## 🤝 Acknowledgements
 
-Developed with care for our planet in association with **Iamigos Foundation**. Contributions, suggestions, and feedback are always welcome! Feel free to open an issue or submit a pull request.
+Heartfelt thanks to the team and mentors at **Inamigos Foundation** for providing this valuable learning experience and guidance throughout the **AI Web Development** internship.
 
 ---
 
